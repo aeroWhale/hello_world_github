@@ -3,3 +3,6 @@ Sunny
 Now I arrived at a new village, the weather is Windy.
 
 News said, village B currently is Cloudy.
+
+This after noon, at village A, it became sunny.
+

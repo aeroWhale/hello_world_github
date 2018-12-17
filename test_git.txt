@@ -1,3 +1,5 @@
 Sunny
 
 Now I arrived at a new village, the weather is Windy.
+
+This after noon, at village A, it became sunny.

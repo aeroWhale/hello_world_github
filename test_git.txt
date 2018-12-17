@@ -1,3 +1,5 @@
 Sunny
 
 Now I arrived at a new village, the weather is Windy.
+
+News said, village B currently is Cloudy.
